@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+.yarn-integrity
+
+# Build files
+dist/
+build/
+.cache/
+
+# Database
+*.sqlite
+*.sqlite-journal
